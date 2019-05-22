@@ -1,0 +1,10 @@
+id: 01DBFGA677MYXTRYN50PSYTCVD
+description: ''
+expected: リーダブルコード
+patterns:
+  - /リーダーブルコード/i
+allows: []
+specs:
+  - from: リーダーブルコード
+    to: リーダブルコード
+tags: []
