@@ -2,7 +2,7 @@ id: 01DBFGA677MYXTRYN50PSYTCVD
 description: ''
 expected: リーダブルコード
 patterns:
-  - /リーダーブルコード/i
+  - リーダーブルコード
 allows: []
 specs:
   - from: リーダーブルコード
