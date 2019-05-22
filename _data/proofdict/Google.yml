@@ -1,0 +1,10 @@
+id: 01DBFGJGWMBCPFVXEKR6C7SH15
+description: ''
+expected: Google
+patterns:
+  - /google/i
+allows: []
+specs:
+  - from: GOOGLE
+    to: Google
+tags: []
